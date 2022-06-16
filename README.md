@@ -1,5 +1,5 @@
 # dingtalk-robot
-[![Go Reference](https://pkg.go.dev/badge/github.com/hb0730/dingtalk-robot.svg)](https://pkg.go.dev/github.com/hb0730/dingtalk-robot) 钉钉自定义机器人
+[![Go Reference](https://pkg.go.dev/badge/github.com/group-robot/dingtalk-robot.svg)](https://pkg.go.dev/github.com/group-robot/dingtalk-robot) 钉钉自定义机器人
 
 # Example
 
